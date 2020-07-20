@@ -1,6 +1,8 @@
 # related-repos
 A list of repos that Nicholson Consulting team members have contributed to
 
+[tpm-impacts-model](https://github.com/ElectricityAuthority/tpm-impacts-model) This repository includes the code for the Electricity Authority's TPM impacts model.
+
 [sia_analytical_processes](https://github.com/nz-social-investment-agency/sia_analytical_processes) Content related to process and best practice for the analytical team at SIA 
 
 [social_housing](https://github.com/nz-social-investment-agency/social_housing) Repository for the code required to run the Social Housing analysis end-to-end
